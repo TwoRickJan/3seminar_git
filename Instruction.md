@@ -15,3 +15,7 @@
 >**git checkout master** - вернуться к акутальному состоянию и продолжить работу
 
 >**git diff** - увидеть разниуц между текущим файлом и закоммиченным файлом
+
+![Кот](https://get.wallhere.com/photo/5092x3438-px-animals-leopard-1098679.jpg)
+[gb url](https://gb.ru/)
+
